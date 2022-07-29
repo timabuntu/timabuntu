@@ -40,8 +40,7 @@
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
- <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" /></a>
- 
+ <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" /></a> 
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge" /></a>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge" /></a>
 </div>
