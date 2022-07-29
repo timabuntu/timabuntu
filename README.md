@@ -15,7 +15,7 @@
 
 **📚 O que estou estudando agora?**
 
-- Estou estudando sobre GraphQL pelo cursos da [Rocketseat](https://www.rocketseat.com.br/).
+- Estou estudando sobre GraphQL pelo curso da [Rocketseat](https://www.rocketseat.com.br/).
 - Também estou estudando constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
 <br>
 
