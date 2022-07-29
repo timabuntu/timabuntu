@@ -19,21 +19,21 @@
 - Também estou estudando constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
 <br>
 
-**Informações sobre minha conta GitHub**
+**📢 Informações sobre minha conta GitHub**
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true)
   <br>
 
-**Linguagens que Uso**
+**✨ Linguagens que Uso**
 
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   <br>
 
-**Conhecimentos**
+**🧠 Conhecimentos**
 <div display="flex">
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
- <a href="https://github.com/timabuntu"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
- <a href="https://github.com/timabuntu"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+ <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+ <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
  <a href="https://github.com/timabuntu"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
  <a href="https://github.com/timabuntu"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
@@ -47,7 +47,7 @@
 <br>
 
 
-**Ferramentas de Desenvolvimento**
+**🔧 Ferramentas de Desenvolvimento**
 
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
