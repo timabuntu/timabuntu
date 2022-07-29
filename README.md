@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="35%"align="right" alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="30%"align="right" alt="Computador iuriCode">
   <br/>
   <h2 align="center"> Hello there, eu sou Thiago! 🦊</h2>
   <h4 align="center"> Resolvedor de problemas amador, curioso e viciado por código. <br/> 
