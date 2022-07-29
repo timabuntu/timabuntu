@@ -8,10 +8,8 @@
 </div>
 <br>
 
-
-
  <p align="justify">
-  🚀 &nbsp; Desenvolvedor Front-end em Formação pela Rocketseat e Oracle+Aluna <br/>
+  🚀 &nbsp; Desenvolvedor Front-end em Formação pela Rocketseat e Oracle+Alura <br/>
   🆘 &nbsp; Estudando muito JavaScript, ReactJS e de vez em quando um pouco de UI Design <br/>
   💻 &nbsp; Minha stack: JavasScript com ReactJs, NextJS & Tailwind <br/> 
   💬 &nbsp; Sobre mim: Além de tecnologia, amo documentários, tocar Guitarra & fazer umas Pizzas! </p>
