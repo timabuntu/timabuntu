@@ -61,10 +61,12 @@
 <br>
 
 <div align="justify">
- <p align="left">  💌  Contato:
+ <br>
+
+**💌  Contato:**
 
  <a href="https://www.linkedin.com/in/thiago-lopes-mello/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
- <a href="https://www.linkedin.com/in/thiago-lopes-mello/"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" /></a>
+ <a href="mailto:thiagogv2@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" /></a>
 
  
 </div>
