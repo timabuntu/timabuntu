@@ -30,7 +30,7 @@
   <br>
 
 **🧠 Conhecimentos**
-<div display="flex">
+<div>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
  <a href="https://github.com/timabuntu"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
  <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -50,10 +50,12 @@
 
 **🔧 Ferramentas de Desenvolvimento**
 
- <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
- <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
- <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
- <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<div>
+   <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+   <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+   <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
+   <a href="https://github.com/timabuntu"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+</div>
 <br>
 
 <div align="justify">
