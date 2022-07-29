@@ -21,7 +21,7 @@
 
 **📢 Informações sobre minha conta GitHub**
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true&hide=stars,issues)
   <br>
 
 **✨ Linguagens que Uso**
