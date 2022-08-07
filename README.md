@@ -8,13 +8,13 @@
  <p align="justify">
   🚀 &nbsp; Em Formação pela Rocketseat e Oracle+Alura <br/>
   🆘 &nbsp; Estudando muito JavaScript, ReactJS e de vez em quando um pouco de UI Design <br/>
-  💻 &nbsp; Minha stack: JavasScript com ReactJs, NextJS & Tailwind <br/> 
+  💻 &nbsp; Minha stack: JavasScript com ReactJS, NextJS & Tailwind <br/> 
   💬 &nbsp; Sobre mim: Além de tecnologia, amo documentários, tocar Guitarra & fazer umas Pizzas! </p>
 <br>
 
 **📚 O que estou estudando agora?**
 
-- Estou estudando sobre GraphQL pelo curso da [Rocketseat](https://www.rocketseat.com.br/).
+- Estou estudando sobre ContextAPI pelo curso da [Rocketseat](https://www.rocketseat.com.br/).
 - Também estou estudando constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
 <br>
 
