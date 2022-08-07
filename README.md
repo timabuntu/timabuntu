@@ -8,7 +8,7 @@
  <p align="justify">
   🚀 &nbsp; Em Formação pela Rocketseat e Oracle+Alura <br/>
   🆘 &nbsp; Estudando muito JavaScript, ReactJS e de vez em quando um pouco de UI Design <br/>
-  💻 &nbsp; Minha stack: JavasScript com ReactJS, NextJS & Tailwind <br/> 
+  💻 &nbsp; Minha stack: JavaScript com ReactJS, NextJS & Tailwind <br/> 
   💬 &nbsp; Sobre mim: Além de tecnologia, amo documentários, tocar Guitarra & fazer umas Pizzas! </p>
 <br>
 
