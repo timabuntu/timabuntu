@@ -2,12 +2,11 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="30%" align="right" alt="Computador iuriCode" />
   
   <h2 align="center"> Hello there, eu sou Thiago! 🦊</h2>
-  <h4 align="center"> Curioso e viciado por código. <br/> 
-   Sou padawan em Desenvolvimento Front-end,curioso e viciado por código estudo constantemente para me tornar um mestre Jedi 💻 </h4>
+  <h4 align="center"> Desenvolvedor Front-end curioso e viciado por código, estudo constantemente para me tornar um mestre Jedi 💻 </h4>
 <br>
 
  <p align="justify">
-  🚀 &nbsp; Desenvolvedor Front-end em Formação pela Rocketseat e Oracle+Alura <br/>
+  🚀 &nbsp; Em Formação pela Rocketseat e Oracle+Alura <br/>
   🆘 &nbsp; Estudando muito JavaScript, ReactJS e de vez em quando um pouco de UI Design <br/>
   💻 &nbsp; Minha stack: JavasScript com ReactJs, NextJS & Tailwind <br/> 
   💬 &nbsp; Sobre mim: Além de tecnologia, amo documentários, tocar Guitarra & fazer umas Pizzas! </p>
