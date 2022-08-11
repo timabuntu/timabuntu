@@ -15,7 +15,7 @@
 **📚 O que estou estudando agora?**
 
 - Estou estudando sobre React-Router pelo curso da [Rocketseat](https://www.rocketseat.com.br/).
-- Também estou estudando constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
+- Também estudo constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
 <br>
 
 **📢 Informações sobre minha conta GitHub**
