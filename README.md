@@ -20,12 +20,12 @@
 
 **📢 Informações sobre minha conta GitHub**
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true&hide=stars,issues)
-  <br>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/timabuntu?cardType=octocat)](https://git.io/awesome-stats-card)
+<br>
 
 **✨ Linguagens que Uso**
 
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&hide=html,html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   <br>
 
 **🧠 Conhecimentos**
