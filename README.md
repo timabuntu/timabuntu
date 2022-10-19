@@ -14,8 +14,9 @@
 
 **📚 O que estou estudando agora?**
 
-- Estou estudando sobre React-Router pelo curso da [Rocketseat](https://www.rocketseat.com.br/).
+- Estou estudando sobre Context-API pelo curso da [Rocketseat](https://www.rocketseat.com.br/).
 - Também estudo constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
+- Participando do BootCamp da NTT-DATA, feito por Digital Innovation one
 <br>
 
 **📢 Informações sobre minha conta GitHub**
