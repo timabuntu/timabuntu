@@ -19,15 +19,9 @@
 - Participando do BootCamp da NTT-DATA, feito por Digital Innovation one
 <br>
 
-**📢 Informações sobre minha conta GitHub**
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/timabuntu?cardType=octocat)](https://git.io/awesome-stats-card)
-<br>
-
-**✨ Linguagens que Uso**
-
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&hide=html,html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
+**✨ Stats**
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&layout=compact&langs_count=7&theme=dracula"/>
 
