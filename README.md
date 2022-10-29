@@ -29,6 +29,7 @@
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&hide=html,html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAguiarCode&layout=compact&langs_count=7&theme=dracula"/>
 
 **🧠 Conhecimentos**
 <div>
