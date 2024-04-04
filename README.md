@@ -22,8 +22,10 @@
 
 **✨ Stats**
  
-  <img height="180em" src="https://github-readme-stats-timabuntu.vercel.app/api?username=timabuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-timabuntu.vercel.app/api/top-langs/?username=timabuntu&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=timabuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timabuntu&layout=compact&langs_count=7&theme=dracula" />
 
 **🧠 Conhecimentos**
 <div>
