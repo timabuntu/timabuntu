@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="220px" alt="Ilustração de Computador Animada"/>
 </p>
 
-<h1 align="center">Thiago Lopes Mello</h1>
+<h1 align="center">Thiago Lopes de Mello</h1>
 
 <h3 align="center">
   Desenvolvedor Front-End | Criando Interfaces Web Intuitivas e Performáticas ✨
@@ -57,8 +57,6 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia para dar vi
 
 ---
 
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -76,9 +74,3 @@ Onde você também pode me encontrar!
   <a href="https://www.linkedin.com/in/thiago-lopes-mello/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp; <a href="mailto:thiagogv2@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
-
----
-
-<p align="center">
-  <small>Desenvolvido com ❤️ por Thiago Lopes Mello</small>
-</p>
