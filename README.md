@@ -6,17 +6,15 @@
 <br>
 
  <p align="justify">
-  🚀 &nbsp; Em Formação pela Rocketseat e Oracle+Alura <br/>
-  🆘 &nbsp; Estudando Python para back-end e ReactJs no front-end, de vez em quando um pouco de UI Design <br/>
+  🚀 &nbsp; Formação Rocketseat e Oracle+Alura <br/>
   💻 &nbsp; Minha stack: JavaScript com ReactJS, NextJS & Tailwind <br/> 
   💬 &nbsp; Sobre mim: Além de tecnologia, amo documentários, tocar Guitarra & fazer umas Pizzas! </p>
 <br>
 
 **📚 O que estou estudando agora?**
 
-- Atualmente estudando Python.
+- Acessibilidade.
 - Também estudo constantemente sobre Complexidade de Algoritmos e Estruturas de dados.
-- Participando do BootCamp Python AI Backend Developer, feito por Digital Innovation one e patrocinado pela Vivo
 <br>
 
 
